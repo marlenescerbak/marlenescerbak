@@ -1,6 +1,6 @@
 - Hello! I’m @marlenescerbak
 - Game dev, AR/VR dev with programming and art skills
-- Currently learning: PHP
+- Currently focusing on: Web Dev
 - Website: <a href="https://marlenescerbak.com">marlenescerbak.com</a>
 - Pronouns: She/Her
 - Fun fact: I can bend my left forefinger backwards until it touches my hand.
