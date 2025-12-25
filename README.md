@@ -1,5 +1,5 @@
 - Hello! I’m @marlenescerbak
-- Game dev, AR/VR dev with programming and art skills
+- Game, AR/VR, & web dev with design, programming, and art skills
 - Currently focusing on: Web Dev
 - Website: <a href="https://marlenescerbak.com">marlenescerbak.com</a>
 - Pronouns: She/Her
